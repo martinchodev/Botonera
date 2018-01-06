@@ -93,6 +93,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="clicBoton8"
             android:text="8" />
 
         <Button
@@ -100,6 +101,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="clicBoton9"
             android:text="9" />
     </LinearLayout>
 
