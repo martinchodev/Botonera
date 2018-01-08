@@ -3,6 +3,8 @@ Aplicación de ejemplo para el curso de introducción al desarrollo en Android d
 
 Coordinador: [Martín Vukovic](https://martin.tttdevs.com)
 
+![](Capturas/Botonera.png)
+
 Es una app simple que muestra una grilla con 9 botones que al ser pulsados reproducen un efecto de sonido.
 
 Esta aplicación se utilizó para ejemplificar el uso de:
